@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+table,td{
+    background-color: #E8DCFF;
+    border-collapse: collapse;
+    border:1px solid black;
+}
+input{
+    background-color:  #FEFFB0;
+    font-weight: bold;
+    text-align: right;
+
+}
+p{
+    color: #174C68;
+    font-weight: bold;
+    font-size: 18px;
+}
